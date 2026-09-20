@@ -1,0 +1,501 @@
+Order_ID,Date,Product,Category,City,Quantity,Unit_Price
+1001,2026-01-07,Notebook,Stationery,Lucknow,3,120
+1002,2026-06-23,Tablet,Electronics,Lucknow,5,15340
+1003,2026-01-08,USB Cable,Accessories,Lucknow,1,340
+1004,2026-01-07,Office Chair,Furniture,Raebareli,5,8240
+1005,2026-04-18,Notebook,Stationery,Raebareli,2,120
+1006,2026-02-10,Keyboard,Accessories,Lucknow,4,1180
+1007,2026-03-28,Tablet,Electronics,Kanpur,1,15350
+1008,2026-03-30,Smartphone,Electronics,Prayagraj,5,21480
+1009,2026-05-18,Laptop,Electronics,Varanasi,1,47130
+1010,2026-05-22,USB Cable,Accessories,Lucknow,3,360
+1011,2026-05-28,Study Table,Furniture,Prayagraj,2,6630
+1012,2026-03-16,Laptop,Electronics,Kanpur,1,46600
+1013,2026-03-13,Smartphone,Electronics,Varanasi,4,22300
+1014,2026-04-05,Mouse,Accessories,Kanpur,3,680
+1015,2026-06-05,Keyboard,Accessories,Lucknow,2,1200
+1016,2026-04-29,Headphones,Electronics,Kanpur,4,2440
+1017,2026-02-26,Notebook,Stationery,Raebareli,3,120
+1018,2026-01-09,Laptop,Electronics,Kanpur,3,44560
+1019,2026-05-26,Smartphone,Electronics,Kanpur,3,21370
+1020,2026-06-14,Power Bank,Accessories,Varanasi,4,1350
+1021,2026-05-24,Tablet,Electronics,Kanpur,5,15620
+1022,2026-05-30,Study Table,Furniture,Varanasi,4,6410
+1023,2026-05-07,Tablet,Electronics,Raebareli,1,16410
+1024,2026-06-10,Smartphone,Electronics,Kanpur,2,22640
+1025,2026-01-17,USB Cable,Accessories,Raebareli,4,350
+1026,2026-03-06,Power Bank,Accessories,Raebareli,5,1450
+1027,2026-06-24,Laptop,Electronics,Lucknow,5,46130
+1028,2026-01-29,Notebook,Stationery,Prayagraj,3,120
+1029,2026-03-09,Power Bank,Accessories,Lucknow,5,1440
+1030,2026-06-10,Office Chair,Furniture,Lucknow,3,8790
+1031,2026-02-20,Office Chair,Furniture,Raebareli,2,8390
+1032,2026-05-16,Tablet,Electronics,Raebareli,1,16160
+1033,2026-01-29,Power Bank,Accessories,Lucknow,3,1450
+1034,2026-01-15,Keyboard,Accessories,Kanpur,2,1250
+1035,2026-05-05,Smartphone,Electronics,Lucknow,1,23050
+1036,2026-02-02,Office Chair,Furniture,Kanpur,4,8880
+1037,2026-05-16,Tablet,Electronics,Prayagraj,5,15880
+1038,2026-06-26,Headphones,Electronics,Raebareli,2,2550
+1039,2026-04-23,USB Cable,Accessories,Prayagraj,5,350
+1040,2026-01-17,Headphones,Electronics,Kanpur,3,2380
+1041,2026-05-31,Office Chair,Furniture,Kanpur,2,8080
+1042,2026-02-28,Pen Pack,Stationery,Lucknow,1,80
+1043,2026-05-12,Mouse,Accessories,Lucknow,2,680
+1044,2026-05-19,Power Bank,Accessories,Kanpur,2,1430
+1045,2026-05-02,Study Table,Furniture,Raebareli,2,6690
+1046,2026-01-25,USB Cable,Accessories,Kanpur,1,360
+1047,2026-04-16,Mouse,Accessories,Varanasi,4,730
+1048,2026-01-16,Laptop,Electronics,Lucknow,4,46030
+1049,2026-02-19,Smartphone,Electronics,Kanpur,2,22080
+1050,2026-02-16,Tablet,Electronics,Varanasi,3,15940
+1051,2026-05-21,Smartphone,Electronics,Varanasi,1,21010
+1052,2026-01-24,Office Chair,Furniture,Lucknow,2,8220
+1053,2026-02-24,Power Bank,Accessories,Varanasi,4,1460
+1054,2026-01-01,Tablet,Electronics,Varanasi,4,15620
+1055,2026-04-19,Power Bank,Accessories,Prayagraj,5,1420
+1056,2026-02-18,Power Bank,Accessories,Kanpur,3,1360
+1057,2026-05-19,Laptop,Electronics,Raebareli,1,46120
+1058,2026-05-30,Laptop,Electronics,Lucknow,4,45010
+1059,2026-01-15,Office Chair,Furniture,Kanpur,5,8140
+1060,2026-06-02,Tablet,Electronics,Lucknow,1,16280
+1061,2026-01-31,Headphones,Electronics,Varanasi,5,2440
+1062,2026-06-08,Study Table,Furniture,Lucknow,1,6450
+1063,2026-05-14,Study Table,Furniture,Raebareli,3,6780
+1064,2026-03-03,Headphones,Electronics,Prayagraj,3,2470
+1065,2026-04-28,Notebook,Stationery,Prayagraj,3,130
+1066,2026-04-28,Smartphone,Electronics,Lucknow,5,23100
+1067,2026-05-18,Smartphone,Electronics,Lucknow,2,22010
+1068,2026-01-18,Tablet,Electronics,Prayagraj,2,15790
+1069,2026-05-20,Tablet,Electronics,Varanasi,3,16180
+1070,2026-01-03,Notebook,Stationery,Raebareli,5,120
+1071,2026-02-04,Notebook,Stationery,Lucknow,3,120
+1072,2026-02-09,Smartphone,Electronics,Raebareli,3,21520
+1073,2026-02-22,Headphones,Electronics,Prayagraj,3,2500
+1074,2026-01-24,Keyboard,Accessories,Lucknow,4,1240
+1075,2026-03-27,Laptop,Electronics,Lucknow,2,45620
+1076,2026-04-24,Keyboard,Accessories,Kanpur,5,1220
+1077,2026-01-29,Office Chair,Furniture,Lucknow,1,8880
+1078,2026-05-20,Pen Pack,Stationery,Kanpur,1,80
+1079,2026-02-07,Study Table,Furniture,Raebareli,4,6260
+1080,2026-01-11,Keyboard,Accessories,Prayagraj,3,1170
+1081,2026-04-01,Headphones,Electronics,Lucknow,5,2600
+1082,2026-02-09,USB Cable,Accessories,Raebareli,2,360
+1083,2026-01-07,Tablet,Electronics,Varanasi,2,16380
+1084,2026-06-21,Mouse,Accessories,Varanasi,2,680
+1085,2026-04-08,Pen Pack,Stationery,Lucknow,1,80
+1086,2026-04-28,Headphones,Electronics,Kanpur,3,2450
+1087,2026-01-07,Headphones,Electronics,Kanpur,2,2470
+1088,2026-03-13,Keyboard,Accessories,Lucknow,3,1220
+1089,2026-03-26,USB Cable,Accessories,Raebareli,1,340
+1090,2026-05-29,Keyboard,Accessories,Kanpur,3,1140
+1091,2026-03-30,Study Table,Furniture,Varanasi,3,6460
+1092,2026-04-09,Office Chair,Furniture,Lucknow,5,8240
+1093,2026-01-01,Laptop,Electronics,Varanasi,5,46920
+1094,2026-04-04,Office Chair,Furniture,Kanpur,4,8130
+1095,2026-06-09,Notebook,Stationery,Prayagraj,3,120
+1096,2026-05-10,Smartphone,Electronics,Prayagraj,3,22370
+1097,2026-06-28,Mouse,Accessories,Varanasi,3,700
+1098,2026-06-20,Headphones,Electronics,Varanasi,4,2540
+1099,2026-05-26,Tablet,Electronics,Raebareli,3,15850
+1100,2026-03-15,Laptop,Electronics,Prayagraj,2,44680
+1101,2026-06-17,Study Table,Furniture,Raebareli,3,6480
+1102,2026-05-11,Power Bank,Accessories,Kanpur,4,1440
+1103,2026-06-18,Pen Pack,Stationery,Kanpur,1,80
+1104,2026-03-27,Notebook,Stationery,Raebareli,1,120
+1105,2026-02-27,Headphones,Electronics,Prayagraj,2,2410
+1106,2026-05-02,Laptop,Electronics,Kanpur,5,46570
+1107,2026-04-17,Smartphone,Electronics,Varanasi,5,21330
+1108,2026-05-07,Pen Pack,Stationery,Varanasi,4,80
+1109,2026-01-28,Notebook,Stationery,Lucknow,4,120
+1110,2026-04-29,Pen Pack,Stationery,Raebareli,1,80
+1111,2026-02-04,Smartphone,Electronics,Varanasi,4,22370
+1112,2026-03-23,Office Chair,Furniture,Raebareli,4,8600
+1113,2026-04-20,Pen Pack,Stationery,Raebareli,5,80
+1114,2026-04-26,Tablet,Electronics,Varanasi,3,16400
+1115,2026-05-14,Notebook,Stationery,Prayagraj,4,120
+1116,2026-01-20,Keyboard,Accessories,Varanasi,3,1170
+1117,2026-05-19,Mouse,Accessories,Prayagraj,1,670
+1118,2026-06-27,Headphones,Electronics,Varanasi,2,2550
+1119,2026-04-15,Smartphone,Electronics,Varanasi,3,22090
+1120,2026-02-22,USB Cable,Accessories,Lucknow,4,350
+1121,2026-05-28,Study Table,Furniture,Lucknow,4,6490
+1122,2026-04-10,Mouse,Accessories,Prayagraj,4,700
+1123,2026-06-04,Pen Pack,Stationery,Raebareli,2,80
+1124,2026-05-05,Keyboard,Accessories,Varanasi,1,1190
+1125,2026-02-12,Notebook,Stationery,Varanasi,4,130
+1126,2026-01-07,Study Table,Furniture,Raebareli,4,6560
+1127,2026-01-22,Notebook,Stationery,Lucknow,4,120
+1128,2026-01-13,Power Bank,Accessories,Kanpur,3,1380
+1129,2026-03-25,Headphones,Electronics,Varanasi,3,2570
+1130,2026-04-18,USB Cable,Accessories,Prayagraj,3,360
+1131,2026-05-19,Power Bank,Accessories,Lucknow,1,1470
+1132,2026-06-16,Mouse,Accessories,Kanpur,1,720
+1133,2026-01-08,Notebook,Stationery,Lucknow,2,120
+1134,2026-02-09,Laptop,Electronics,Raebareli,2,43320
+1135,2026-05-25,Notebook,Stationery,Lucknow,2,120
+1136,2026-02-12,Keyboard,Accessories,Prayagraj,5,1210
+1137,2026-02-11,Pen Pack,Stationery,Lucknow,3,80
+1138,2026-05-28,Laptop,Electronics,Prayagraj,4,44530
+1139,2026-01-20,Pen Pack,Stationery,Kanpur,5,80
+1140,2026-01-27,Notebook,Stationery,Kanpur,3,120
+1141,2026-05-25,Study Table,Furniture,Lucknow,1,6400
+1142,2026-01-18,USB Cable,Accessories,Prayagraj,5,360
+1143,2026-05-06,Laptop,Electronics,Varanasi,1,44700
+1144,2026-02-09,Mouse,Accessories,Varanasi,4,680
+1145,2026-06-07,Office Chair,Furniture,Prayagraj,5,8730
+1146,2026-06-01,Power Bank,Accessories,Varanasi,3,1380
+1147,2026-03-13,Headphones,Electronics,Lucknow,4,2440
+1148,2026-06-06,Power Bank,Accessories,Raebareli,4,1380
+1149,2026-02-16,Power Bank,Accessories,Prayagraj,4,1360
+1150,2026-03-13,Keyboard,Accessories,Prayagraj,5,1220
+1151,2026-01-03,Keyboard,Accessories,Raebareli,5,1250
+1152,2026-04-15,Smartphone,Electronics,Kanpur,4,22120
+1153,2026-06-15,Headphones,Electronics,Varanasi,4,2490
+1154,2026-03-17,Laptop,Electronics,Lucknow,2,44570
+1155,2026-06-19,Headphones,Electronics,Prayagraj,5,2470
+1156,2026-03-30,Office Chair,Furniture,Raebareli,4,8920
+1157,2026-04-01,Office Chair,Furniture,Prayagraj,4,8310
+1158,2026-01-31,Keyboard,Accessories,Kanpur,2,1180
+1159,2026-06-26,Pen Pack,Stationery,Raebareli,2,80
+1160,2026-03-12,Pen Pack,Stationery,Varanasi,5,80
+1161,2026-03-14,Office Chair,Furniture,Raebareli,1,8780
+1162,2026-04-03,Keyboard,Accessories,Kanpur,2,1180
+1163,2026-02-02,Pen Pack,Stationery,Raebareli,3,80
+1164,2026-03-16,Laptop,Electronics,Raebareli,2,45620
+1165,2026-01-04,Power Bank,Accessories,Lucknow,5,1370
+1166,2026-03-29,Power Bank,Accessories,Varanasi,2,1470
+1167,2026-01-30,Keyboard,Accessories,Varanasi,1,1190
+1168,2026-06-11,Smartphone,Electronics,Raebareli,1,21230
+1169,2026-01-22,Study Table,Furniture,Prayagraj,2,6250
+1170,2026-06-02,USB Cable,Accessories,Raebareli,5,340
+1171,2026-04-26,Office Chair,Furniture,Varanasi,4,8330
+1172,2026-03-20,Study Table,Furniture,Varanasi,5,6580
+1173,2026-02-23,Study Table,Furniture,Lucknow,2,6350
+1174,2026-03-03,Smartphone,Electronics,Kanpur,2,22110
+1175,2026-04-15,Tablet,Electronics,Lucknow,4,16300
+1176,2026-01-09,Power Bank,Accessories,Prayagraj,2,1370
+1177,2026-01-19,Keyboard,Accessories,Varanasi,2,1250
+1178,2026-06-19,Notebook,Stationery,Raebareli,2,120
+1179,2026-06-15,Office Chair,Furniture,Kanpur,2,8850
+1180,2026-01-16,Tablet,Electronics,Lucknow,2,16470
+1181,2026-03-15,Study Table,Furniture,Raebareli,4,6260
+1182,2026-06-29,Pen Pack,Stationery,Prayagraj,4,80
+1183,2026-05-07,Office Chair,Furniture,Raebareli,4,8140
+1184,2026-03-24,Laptop,Electronics,Varanasi,5,43880
+1185,2026-06-22,Smartphone,Electronics,Kanpur,5,22190
+1186,2026-05-28,Laptop,Electronics,Prayagraj,1,46180
+1187,2026-05-13,Tablet,Electronics,Varanasi,4,16670
+1188,2026-04-22,Tablet,Electronics,Raebareli,4,16750
+1189,2026-04-15,Power Bank,Accessories,Prayagraj,3,1370
+1190,2026-03-26,Smartphone,Electronics,Kanpur,4,22430
+1191,2026-05-21,Keyboard,Accessories,Varanasi,1,1190
+1192,2026-03-24,Mouse,Accessories,Prayagraj,1,730
+1193,2026-01-01,USB Cable,Accessories,Raebareli,5,350
+1194,2026-05-13,Laptop,Electronics,Kanpur,3,45550
+1195,2026-01-14,Power Bank,Accessories,Varanasi,2,1370
+1196,2026-04-23,Tablet,Electronics,Prayagraj,4,15390
+1197,2026-03-03,Notebook,Stationery,Raebareli,2,120
+1198,2026-04-15,Laptop,Electronics,Raebareli,1,43760
+1199,2026-01-31,Smartphone,Electronics,Varanasi,2,22000
+1200,2026-05-11,Pen Pack,Stationery,Prayagraj,3,80
+1201,2026-03-04,Power Bank,Accessories,Varanasi,4,1410
+1202,2026-06-03,USB Cable,Accessories,Kanpur,5,360
+1203,2026-03-12,Tablet,Electronics,Lucknow,4,15740
+1204,2026-01-01,Office Chair,Furniture,Prayagraj,3,8690
+1205,2026-06-18,Study Table,Furniture,Raebareli,4,6740
+1206,2026-05-04,Power Bank,Accessories,Raebareli,3,1380
+1207,2026-04-27,Office Chair,Furniture,Varanasi,3,8810
+1208,2026-05-27,Pen Pack,Stationery,Kanpur,4,80
+1209,2026-03-23,USB Cable,Accessories,Lucknow,4,360
+1210,2026-06-19,USB Cable,Accessories,Varanasi,2,350
+1211,2026-05-09,Laptop,Electronics,Kanpur,5,44240
+1212,2026-01-26,Smartphone,Electronics,Varanasi,5,22900
+1213,2026-04-15,Laptop,Electronics,Kanpur,2,43090
+1214,2026-06-09,Keyboard,Accessories,Prayagraj,4,1220
+1215,2026-04-08,Mouse,Accessories,Raebareli,3,710
+1216,2026-01-10,Power Bank,Accessories,Raebareli,5,1340
+1217,2026-02-28,Notebook,Stationery,Prayagraj,1,120
+1218,2026-04-24,Smartphone,Electronics,Lucknow,2,22430
+1219,2026-03-25,Laptop,Electronics,Lucknow,1,44070
+1220,2026-02-07,Mouse,Accessories,Varanasi,2,700
+1221,2026-02-13,Study Table,Furniture,Kanpur,2,6230
+1222,2026-06-24,USB Cable,Accessories,Raebareli,2,350
+1223,2026-03-01,Study Table,Furniture,Kanpur,4,6590
+1224,2026-06-20,Power Bank,Accessories,Prayagraj,1,1460
+1225,2026-06-23,Power Bank,Accessories,Prayagraj,5,1350
+1226,2026-05-31,Power Bank,Accessories,Prayagraj,3,1420
+1227,2026-04-27,USB Cable,Accessories,Prayagraj,3,340
+1228,2026-01-28,USB Cable,Accessories,Varanasi,2,350
+1229,2026-03-17,Mouse,Accessories,Raebareli,3,670
+1230,2026-03-12,Notebook,Stationery,Varanasi,1,120
+1231,2026-06-05,Notebook,Stationery,Lucknow,4,120
+1232,2026-06-05,Keyboard,Accessories,Kanpur,3,1170
+1233,2026-03-06,Headphones,Electronics,Raebareli,2,2530
+1234,2026-03-21,Notebook,Stationery,Lucknow,4,110
+1235,2026-01-24,Mouse,Accessories,Kanpur,3,690
+1236,2026-02-21,USB Cable,Accessories,Kanpur,2,360
+1237,2026-05-09,Mouse,Accessories,Raebareli,3,720
+1238,2026-03-17,Keyboard,Accessories,Varanasi,3,1240
+1239,2026-02-06,Power Bank,Accessories,Lucknow,2,1450
+1240,2026-05-23,Pen Pack,Stationery,Varanasi,3,80
+1241,2026-03-09,USB Cable,Accessories,Lucknow,5,340
+1242,2026-05-30,Mouse,Accessories,Prayagraj,4,720
+1243,2026-06-22,Mouse,Accessories,Lucknow,2,700
+1244,2026-03-25,Study Table,Furniture,Raebareli,5,6320
+1245,2026-06-29,Smartphone,Electronics,Varanasi,3,22330
+1246,2026-01-12,Smartphone,Electronics,Kanpur,1,21570
+1247,2026-01-25,Power Bank,Accessories,Lucknow,2,1450
+1248,2026-04-27,Tablet,Electronics,Varanasi,3,16270
+1249,2026-04-18,Pen Pack,Stationery,Raebareli,5,80
+1250,2026-06-17,Tablet,Electronics,Varanasi,1,16530
+1251,2026-03-13,Study Table,Furniture,Varanasi,1,6620
+1252,2026-04-24,Headphones,Electronics,Varanasi,2,2590
+1253,2026-05-20,Smartphone,Electronics,Prayagraj,3,21030
+1254,2026-02-01,Keyboard,Accessories,Kanpur,4,1150
+1255,2026-01-06,Headphones,Electronics,Raebareli,1,2570
+1256,2026-05-25,Headphones,Electronics,Kanpur,2,2390
+1257,2026-05-31,Office Chair,Furniture,Kanpur,2,8770
+1258,2026-02-07,Headphones,Electronics,Prayagraj,5,2380
+1259,2026-05-19,Tablet,Electronics,Kanpur,3,16480
+1260,2026-02-03,Smartphone,Electronics,Lucknow,1,21690
+1261,2026-03-24,Headphones,Electronics,Raebareli,1,2420
+1262,2026-04-18,Laptop,Electronics,Kanpur,5,43260
+1263,2026-04-25,Smartphone,Electronics,Varanasi,3,22030
+1264,2026-05-09,Smartphone,Electronics,Varanasi,2,22980
+1265,2026-03-19,Laptop,Electronics,Raebareli,4,45650
+1266,2026-05-03,Laptop,Electronics,Lucknow,4,44670
+1267,2026-04-24,Smartphone,Electronics,Varanasi,1,22880
+1268,2026-02-07,Mouse,Accessories,Raebareli,1,670
+1269,2026-05-21,Study Table,Furniture,Raebareli,3,6420
+1270,2026-03-17,Study Table,Furniture,Raebareli,4,6500
+1271,2026-06-29,USB Cable,Accessories,Lucknow,1,360
+1272,2026-02-25,Notebook,Stationery,Raebareli,4,120
+1273,2026-03-28,Headphones,Electronics,Varanasi,4,2470
+1274,2026-03-22,Pen Pack,Stationery,Lucknow,4,80
+1275,2026-02-09,Keyboard,Accessories,Prayagraj,4,1150
+1276,2026-04-21,Smartphone,Electronics,Lucknow,1,22540
+1277,2026-05-23,Mouse,Accessories,Kanpur,1,710
+1278,2026-03-26,Office Chair,Furniture,Raebareli,1,8420
+1279,2026-01-14,Notebook,Stationery,Varanasi,3,120
+1280,2026-05-28,Mouse,Accessories,Lucknow,5,680
+1281,2026-02-27,Notebook,Stationery,Varanasi,1,120
+1282,2026-01-30,Office Chair,Furniture,Prayagraj,3,8560
+1283,2026-06-09,USB Cable,Accessories,Raebareli,5,360
+1284,2026-06-05,Office Chair,Furniture,Lucknow,3,8100
+1285,2026-03-28,Keyboard,Accessories,Prayagraj,3,1140
+1286,2026-06-18,Tablet,Electronics,Raebareli,4,15310
+1287,2026-01-24,Pen Pack,Stationery,Lucknow,5,80
+1288,2026-03-29,USB Cable,Accessories,Varanasi,2,350
+1289,2026-05-26,Pen Pack,Stationery,Prayagraj,5,80
+1290,2026-02-10,Laptop,Electronics,Kanpur,5,42970
+1291,2026-04-24,Smartphone,Electronics,Prayagraj,4,21970
+1292,2026-03-11,Power Bank,Accessories,Varanasi,2,1440
+1293,2026-04-21,Smartphone,Electronics,Prayagraj,1,21520
+1294,2026-05-05,Notebook,Stationery,Raebareli,5,120
+1295,2026-04-12,Laptop,Electronics,Kanpur,5,43000
+1296,2026-02-24,Headphones,Electronics,Prayagraj,2,2570
+1297,2026-01-31,Keyboard,Accessories,Prayagraj,1,1200
+1298,2026-02-03,USB Cable,Accessories,Kanpur,4,350
+1299,2026-05-24,Headphones,Electronics,Raebareli,3,2390
+1300,2026-04-22,Pen Pack,Stationery,Lucknow,1,80
+1301,2026-05-28,Smartphone,Electronics,Prayagraj,4,22160
+1302,2026-03-16,Pen Pack,Stationery,Varanasi,1,80
+1303,2026-06-08,Mouse,Accessories,Kanpur,4,720
+1304,2026-04-22,Mouse,Accessories,Lucknow,1,680
+1305,2026-05-15,Study Table,Furniture,Varanasi,1,6430
+1306,2026-02-26,Keyboard,Accessories,Prayagraj,3,1230
+1307,2026-06-12,Smartphone,Electronics,Raebareli,1,22070
+1308,2026-03-31,Headphones,Electronics,Prayagraj,2,2430
+1309,2026-02-20,Tablet,Electronics,Prayagraj,2,16160
+1310,2026-02-15,Notebook,Stationery,Lucknow,4,120
+1311,2026-04-25,Study Table,Furniture,Raebareli,5,6590
+1312,2026-06-10,Study Table,Furniture,Prayagraj,3,6270
+1313,2026-04-24,Smartphone,Electronics,Varanasi,3,22650
+1314,2026-04-01,Study Table,Furniture,Lucknow,5,6220
+1315,2026-01-10,Power Bank,Accessories,Varanasi,1,1380
+1316,2026-06-15,Keyboard,Accessories,Lucknow,1,1210
+1317,2026-04-29,Office Chair,Furniture,Varanasi,5,8550
+1318,2026-04-26,Pen Pack,Stationery,Lucknow,5,80
+1319,2026-05-02,Mouse,Accessories,Raebareli,5,680
+1320,2026-01-27,Laptop,Electronics,Varanasi,3,47170
+1321,2026-06-15,Smartphone,Electronics,Raebareli,2,20990
+1322,2026-04-23,Pen Pack,Stationery,Varanasi,5,80
+1323,2026-04-06,Tablet,Electronics,Prayagraj,3,15820
+1324,2026-01-14,Mouse,Accessories,Raebareli,3,670
+1325,2026-06-23,Smartphone,Electronics,Raebareli,4,21530
+1326,2026-02-08,Pen Pack,Stationery,Raebareli,3,80
+1327,2026-03-31,Notebook,Stationery,Kanpur,3,130
+1328,2026-02-03,Pen Pack,Stationery,Varanasi,5,80
+1329,2026-05-24,Smartphone,Electronics,Prayagraj,4,22320
+1330,2026-06-21,Mouse,Accessories,Kanpur,5,670
+1331,2026-05-11,Notebook,Stationery,Varanasi,3,110
+1332,2026-02-24,Keyboard,Accessories,Kanpur,3,1250
+1333,2026-02-27,Power Bank,Accessories,Kanpur,2,1350
+1334,2026-05-10,Keyboard,Accessories,Lucknow,5,1240
+1335,2026-06-19,Office Chair,Furniture,Lucknow,3,8820
+1336,2026-06-02,Study Table,Furniture,Kanpur,4,6280
+1337,2026-02-12,Tablet,Electronics,Raebareli,4,15270
+1338,2026-04-24,Mouse,Accessories,Kanpur,5,680
+1339,2026-03-01,Pen Pack,Stationery,Varanasi,5,80
+1340,2026-04-05,Power Bank,Accessories,Kanpur,5,1470
+1341,2026-04-08,Power Bank,Accessories,Prayagraj,5,1400
+1342,2026-06-04,Tablet,Electronics,Kanpur,2,16600
+1343,2026-04-06,Laptop,Electronics,Varanasi,5,46950
+1344,2026-02-01,Pen Pack,Stationery,Raebareli,3,80
+1345,2026-04-26,Tablet,Electronics,Prayagraj,5,15440
+1346,2026-02-26,USB Cable,Accessories,Lucknow,4,360
+1347,2026-01-14,Laptop,Electronics,Varanasi,4,45010
+1348,2026-01-21,Headphones,Electronics,Varanasi,3,2430
+1349,2026-06-16,Mouse,Accessories,Lucknow,3,720
+1350,2026-03-15,Tablet,Electronics,Lucknow,4,16310
+1351,2026-04-25,Tablet,Electronics,Varanasi,5,15210
+1352,2026-03-07,Smartphone,Electronics,Lucknow,2,22740
+1353,2026-05-16,Office Chair,Furniture,Raebareli,4,8170
+1354,2026-03-19,Keyboard,Accessories,Kanpur,1,1150
+1355,2026-04-28,USB Cable,Accessories,Raebareli,1,340
+1356,2026-05-18,Power Bank,Accessories,Raebareli,1,1420
+1357,2026-02-06,Study Table,Furniture,Kanpur,3,6450
+1358,2026-03-03,Study Table,Furniture,Prayagraj,5,6450
+1359,2026-05-15,Notebook,Stationery,Lucknow,3,110
+1360,2026-05-10,Office Chair,Furniture,Raebareli,5,8550
+1361,2026-01-12,USB Cable,Accessories,Varanasi,4,370
+1362,2026-04-02,Keyboard,Accessories,Lucknow,1,1180
+1363,2026-05-29,Pen Pack,Stationery,Lucknow,3,80
+1364,2026-03-28,Mouse,Accessories,Raebareli,2,720
+1365,2026-06-28,Notebook,Stationery,Varanasi,4,120
+1366,2026-04-28,Tablet,Electronics,Lucknow,1,15670
+1367,2026-01-11,Laptop,Electronics,Kanpur,3,46950
+1368,2026-05-20,Office Chair,Furniture,Varanasi,4,8290
+1369,2026-03-15,Notebook,Stationery,Kanpur,3,120
+1370,2026-03-11,Laptop,Electronics,Prayagraj,1,46350
+1371,2026-04-23,USB Cable,Accessories,Varanasi,4,340
+1372,2026-06-27,Tablet,Electronics,Varanasi,4,15790
+1373,2026-01-22,Office Chair,Furniture,Prayagraj,4,8140
+1374,2026-05-20,Study Table,Furniture,Kanpur,3,6380
+1375,2026-06-19,Smartphone,Electronics,Prayagraj,3,21570
+1376,2026-02-12,Study Table,Furniture,Varanasi,4,6400
+1377,2026-06-07,Laptop,Electronics,Prayagraj,4,43990
+1378,2026-06-21,Laptop,Electronics,Lucknow,4,44380
+1379,2026-01-08,Pen Pack,Stationery,Kanpur,2,80
+1380,2026-01-09,Notebook,Stationery,Varanasi,2,110
+1381,2026-04-03,Notebook,Stationery,Prayagraj,4,130
+1382,2026-02-09,Laptop,Electronics,Raebareli,4,47020
+1383,2026-01-20,Mouse,Accessories,Varanasi,5,670
+1384,2026-03-22,Mouse,Accessories,Varanasi,3,680
+1385,2026-02-17,Smartphone,Electronics,Lucknow,4,22040
+1386,2026-03-09,Office Chair,Furniture,Lucknow,3,8670
+1387,2026-03-15,Headphones,Electronics,Raebareli,4,2430
+1388,2026-04-26,Tablet,Electronics,Lucknow,2,16640
+1389,2026-06-24,Power Bank,Accessories,Lucknow,3,1420
+1390,2026-05-21,Pen Pack,Stationery,Lucknow,5,80
+1391,2026-06-29,Keyboard,Accessories,Kanpur,2,1240
+1392,2026-02-01,Office Chair,Furniture,Kanpur,2,8750
+1393,2026-01-07,Headphones,Electronics,Varanasi,3,2510
+1394,2026-05-22,Mouse,Accessories,Varanasi,2,710
+1395,2026-03-21,Smartphone,Electronics,Lucknow,4,23100
+1396,2026-05-15,Pen Pack,Stationery,Varanasi,4,80
+1397,2026-02-02,Study Table,Furniture,Lucknow,3,6590
+1398,2026-06-24,Power Bank,Accessories,Varanasi,5,1380
+1399,2026-02-16,Office Chair,Furniture,Raebareli,2,8440
+1400,2026-05-13,Laptop,Electronics,Lucknow,2,44120
+1401,2026-02-27,Tablet,Electronics,Prayagraj,3,16720
+1402,2026-01-21,Office Chair,Furniture,Prayagraj,3,8240
+1403,2026-02-02,Office Chair,Furniture,Prayagraj,3,8600
+1404,2026-06-14,Smartphone,Electronics,Raebareli,2,22200
+1405,2026-02-13,Study Table,Furniture,Kanpur,5,6640
+1406,2026-05-25,Study Table,Furniture,Prayagraj,1,6710
+1407,2026-01-12,Laptop,Electronics,Lucknow,5,43940
+1408,2026-04-17,Headphones,Electronics,Raebareli,5,2530
+1409,2026-03-16,Power Bank,Accessories,Raebareli,3,1400
+1410,2026-03-18,Notebook,Stationery,Varanasi,4,110
+1411,2026-04-23,Laptop,Electronics,Kanpur,4,44930
+1412,2026-06-05,Headphones,Electronics,Prayagraj,2,2450
+1413,2026-03-30,Pen Pack,Stationery,Prayagraj,4,80
+1414,2026-05-24,Mouse,Accessories,Raebareli,1,690
+1415,2026-03-10,Power Bank,Accessories,Lucknow,4,1360
+1416,2026-03-16,Smartphone,Electronics,Lucknow,4,22800
+1417,2026-02-10,USB Cable,Accessories,Kanpur,3,370
+1418,2026-02-18,Pen Pack,Stationery,Prayagraj,2,80
+1419,2026-05-08,Office Chair,Furniture,Varanasi,3,8500
+1420,2026-05-10,Smartphone,Electronics,Varanasi,4,23030
+1421,2026-04-01,Headphones,Electronics,Raebareli,1,2390
+1422,2026-06-17,Power Bank,Accessories,Raebareli,4,1370
+1423,2026-04-21,Laptop,Electronics,Lucknow,2,46720
+1424,2026-04-14,Pen Pack,Stationery,Prayagraj,3,80
+1425,2026-05-24,Laptop,Electronics,Raebareli,2,44380
+1426,2026-04-09,Keyboard,Accessories,Lucknow,5,1190
+1427,2026-06-09,Office Chair,Furniture,Prayagraj,5,8180
+1428,2026-04-06,Smartphone,Electronics,Varanasi,3,22130
+1429,2026-02-20,Mouse,Accessories,Kanpur,5,700
+1430,2026-01-12,Office Chair,Furniture,Lucknow,1,8190
+1431,2026-05-13,Mouse,Accessories,Varanasi,4,680
+1432,2026-03-25,Office Chair,Furniture,Kanpur,5,8350
+1433,2026-03-18,USB Cable,Accessories,Raebareli,5,340
+1434,2026-05-06,Office Chair,Furniture,Raebareli,5,8330
+1435,2026-03-26,Laptop,Electronics,Prayagraj,1,47160
+1436,2026-06-26,Study Table,Furniture,Prayagraj,1,6560
+1437,2026-05-28,Keyboard,Accessories,Raebareli,2,1230
+1438,2026-02-13,Study Table,Furniture,Varanasi,5,6580
+1439,2026-02-07,Study Table,Furniture,Varanasi,2,6200
+1440,2026-02-18,Pen Pack,Stationery,Lucknow,1,80
+1441,2026-04-16,USB Cable,Accessories,Kanpur,2,350
+1442,2026-01-16,Study Table,Furniture,Varanasi,2,6510
+1443,2026-06-19,Office Chair,Furniture,Prayagraj,4,8520
+1444,2026-04-28,Mouse,Accessories,Kanpur,5,690
+1445,2026-06-06,Mouse,Accessories,Prayagraj,4,680
+1446,2026-05-23,Headphones,Electronics,Prayagraj,3,2430
+1447,2026-02-23,Keyboard,Accessories,Prayagraj,4,1180
+1448,2026-03-12,Mouse,Accessories,Raebareli,3,670
+1449,2026-04-08,Notebook,Stationery,Raebareli,4,120
+1450,2026-01-11,Tablet,Electronics,Prayagraj,3,16730
+1451,2026-04-24,Smartphone,Electronics,Prayagraj,3,22540
+1452,2026-05-18,Headphones,Electronics,Kanpur,3,2610
+1453,2026-02-05,Pen Pack,Stationery,Prayagraj,1,80
+1454,2026-03-04,Study Table,Furniture,Kanpur,1,6610
+1455,2026-06-13,Office Chair,Furniture,Kanpur,2,8120
+1456,2026-05-01,USB Cable,Accessories,Prayagraj,1,360
+1457,2026-05-21,Tablet,Electronics,Lucknow,2,15850
+1458,2026-06-16,Power Bank,Accessories,Varanasi,2,1440
+1459,2026-03-15,Keyboard,Accessories,Prayagraj,1,1250
+1460,2026-03-01,Smartphone,Electronics,Raebareli,5,22530
+1461,2026-04-17,Laptop,Electronics,Kanpur,2,46950
+1462,2026-05-07,Laptop,Electronics,Varanasi,2,46960
+1463,2026-01-03,Keyboard,Accessories,Lucknow,3,1210
+1464,2026-03-14,Smartphone,Electronics,Prayagraj,4,23080
+1465,2026-05-07,Office Chair,Furniture,Raebareli,2,8800
+1466,2026-02-19,Power Bank,Accessories,Prayagraj,1,1380
+1467,2026-06-15,Pen Pack,Stationery,Varanasi,3,80
+1468,2026-03-17,Laptop,Electronics,Prayagraj,5,45780
+1469,2026-06-06,Headphones,Electronics,Kanpur,4,2580
+1470,2026-01-23,Office Chair,Furniture,Prayagraj,4,8640
+1471,2026-05-03,Tablet,Electronics,Kanpur,3,16700
+1472,2026-04-09,Laptop,Electronics,Prayagraj,2,44760
+1473,2026-03-19,Keyboard,Accessories,Prayagraj,5,1230
+1474,2026-06-17,Laptop,Electronics,Prayagraj,3,45870
+1475,2026-04-30,Laptop,Electronics,Lucknow,3,43470
+1476,2026-03-21,Notebook,Stationery,Raebareli,1,120
+1477,2026-06-07,Keyboard,Accessories,Prayagraj,2,1170
+1478,2026-02-09,Tablet,Electronics,Varanasi,4,16400
+1479,2026-04-17,Study Table,Furniture,Prayagraj,5,6770
+1480,2026-03-05,Office Chair,Furniture,Kanpur,5,8820
+1481,2026-04-25,Smartphone,Electronics,Raebareli,5,22450
+1482,2026-01-29,Smartphone,Electronics,Raebareli,1,22720
+1483,2026-05-27,Office Chair,Furniture,Kanpur,5,8200
+1484,2026-04-24,Mouse,Accessories,Raebareli,1,710
+1485,2026-05-06,Pen Pack,Stationery,Raebareli,1,80
+1486,2026-04-27,Power Bank,Accessories,Lucknow,2,1400
+1487,2026-01-15,Power Bank,Accessories,Raebareli,5,1390
+1488,2026-04-12,Keyboard,Accessories,Lucknow,3,1240
+1489,2026-05-29,Pen Pack,Stationery,Kanpur,1,80
+1490,2026-05-19,Mouse,Accessories,Lucknow,1,730
+1491,2026-01-09,Smartphone,Electronics,Varanasi,3,21800
+1492,2026-04-06,Tablet,Electronics,Varanasi,4,15920
+1493,2026-01-21,USB Cable,Accessories,Varanasi,5,340
+1494,2026-02-15,Mouse,Accessories,Lucknow,5,690
+1495,2026-01-01,Tablet,Electronics,Kanpur,1,16770
+1496,2026-04-19,Power Bank,Accessories,Raebareli,5,1380
+1497,2026-04-28,Headphones,Electronics,Kanpur,3,2410
+1498,2026-01-09,Headphones,Electronics,Lucknow,4,2530
+1499,2026-02-22,Laptop,Electronics,Kanpur,1,43200
+1500,2026-06-03,Laptop,Electronics,Varanasi,1,43850
